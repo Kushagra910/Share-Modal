@@ -9,6 +9,7 @@
   background-color: rgb(39, 198, 148);
   position:relative;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  overflow:hidden;
 }
 
 .cover{
